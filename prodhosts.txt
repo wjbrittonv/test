@@ -1,14 +1,13 @@
-c0021842.prod.cloud.fedex.com
+c0017722.prod.cloud.fedex.com
 c0021838.prod.cloud.fedex.com
 c0022550.prod.cloud.fedex.com
 c0021835.prod.cloud.fedex.com
 c0020527.prod.cloud.fedex.com
-c0022551.prod.cloud.fedex.com
 pvwap022.fxoprod.office.fedex.com
-c0017722.prod.cloud.fedex.com
+c0021842.prod.cloud.fedex.com
 pvwap023.fxoprod.office.fedex.com
-c0021111.prod.cloud.fedex.com
 c0020493.prod.cloud.fedex.com
+c0021111.prod.cloud.fedex.com
 pvwap019.fxoprod.office.fedex.com
 c0019658.prod.cloud.fedex.com
 c0019670.prod.cloud.fedex.com
@@ -18,6 +17,7 @@ c0021837.prod.cloud.fedex.com
 c0021840.prod.cloud.fedex.com
 pvwap020.fxoprod.office.fedex.com
 c0021839.prod.cloud.fedex.com
+c0022551.prod.cloud.fedex.com
 pvwap018.fxoprod.office.fedex.com
 pvwap017.fxoprod.office.fedex.com
 c0011471.prod.cloud.fedex.com
