@@ -11,61 +11,61 @@
     <tr>
       <td>L1a</td>
       <td>dvwap011.fxodev.office.fedex.com</td>
-      <td>\\isdwtc025d.fxodev.office.fedex.com\ecomm_L1b\ecommerce\DocServer\dvwap011\logs</td>
+      <td>\\isdwtc025d.fxodev.office.fedex.com\ecomm_L1b...</td>
       <td>UTC</td>
     </tr>
     <tr>
       <td>L1b</td>
       <td>dvwap010.fxodev.office.fedex.com</td>
-      <td>\\isdwtc025d.fxodev.office.fedex.com\ecomm_L1b\ecommerce\DocServer\dvwap010\logs</td>
+      <td>\\isdwtc025d.fxodev.office.fedex.com\ecomm_L1b...</td>
       <td>UTC</td>
     </tr>
     <tr>
       <td>L2</td>
       <td>dvwap008.fxodev.office.fedex.com</td>
-      <td>\\isdwtc025d.fxodev.office.fedex.com\ecomm_L2\ecommerce\DocServer\dvwap008\logs</td>
+      <td>\\isdwtc025d.fxodev.office.fedex.com\ecomm_L2\...</td>
       <td>UTC</td>
     </tr>
     <tr>
       <td>L3</td>
       <td>tvwap016.fxotest.office.fedex.com</td>
-      <td>\\isdwtc020d.fxotest.office.fedex.com\ecomm-L3\ecommerce\DocServer\tvwap016\logs</td>
+      <td>\\isdwtc020d.fxotest.office.fedex.com\ecomm-L3...</td>
       <td>UTC</td>
     </tr>
     <tr>
       <td>L4</td>
       <td>tvwap002.fxotest.office.fedex.com</td>
-      <td>\\isdwtc020d.fxotest.office.fedex.com\ecomm-L4\ecommerce\DocServer\tvwap002\logs</td>
+      <td>\\isdwtc020d.fxotest.office.fedex.com\ecomm-L4...</td>
       <td>UTC</td>
     </tr>
     <tr>
       <td>L4</td>
       <td>tvwap003.fxotest.office.fedex.com</td>
-      <td>\\isdwtc020d.fxotest.office.fedex.com\ecomm-L4\ecommerce\DocServer\tvwap003\logs</td>
+      <td>\\isdwtc020d.fxotest.office.fedex.com\ecomm-L4...</td>
       <td>UTC</td>
     </tr>
     <tr>
       <td>L4</td>
       <td>tvwap011.fxotest.office.fedex.com</td>
-      <td>\\isdwtc020d.fxotest.office.fedex.com\ecomm-L4\ecommerce\DocServer\tvwap011\logs</td>
+      <td>\\isdwtc020d.fxotest.office.fedex.com\ecomm-L4...</td>
       <td>UTC</td>
     </tr>
     <tr>
       <td>L4</td>
       <td>tvwap014.fxotest.office.fedex.com</td>
-      <td>\\isdwtc020d.fxotest.office.fedex.com\ecomm-L4\ecommerce\DocServer\tvwap014\logs</td>
+      <td>\\isdwtc020d.fxotest.office.fedex.com\ecomm-L4...</td>
       <td>UTC</td>
     </tr>
     <tr>
       <td>L4</td>
       <td>tvwap015.fxotest.office.fedex.com</td>
-      <td>\\isdwtc020d.fxotest.office.fedex.com\ecomm-L4\ecommerce\DocServer\tvwap015\logs</td>
+      <td>\\isdwtc020d.fxotest.office.fedex.com\ecomm-L4...</td>
       <td>UTC</td>
     </tr>
     <tr>
       <td>L5</td>
       <td>tvwap012.fxotest.office.fedex.com</td>
-      <td>\\isdwtc020d.fxotest.office.fedex.com\ecomm-L5\ecommerce\DocServer\tvwap012\logs</td>
+      <td>\\isdwtc020d.fxotest.office.fedex.com\ecomm-L5...</td>
       <td>UTC</td>
     </tr>
     <tr>
@@ -77,19 +77,19 @@
     <tr>
       <td>L1</td>
       <td>c0016913.test.cloud.fedex.com</td>
-      <td>\\isdwtc001d-bo.ute.fedex.com\EAImulti_commonL1\ecommerce\Docserver\C0016913\logs</td>
+      <td>\\isdwtc001d-bo.ute.fedex.com\EAImulti_commonL...</td>
       <td>UTC</td>
     </tr>
     <tr>
       <td>L2</td>
       <td>c0016962.test.cloud.fedex.com</td>
-      <td>\\isdwtc001d-bo.ute.fedex.com\EAImulti_commonL2\ecommerce\Docserver\C0016962\logs</td>
+      <td>\\isdwtc001d-bo.ute.fedex.com\EAImulti_commonL...</td>
       <td>UTC</td>
     </tr>
     <tr>
       <td>L3</td>
       <td>c0016963.test.cloud.fedex.com</td>
-      <td>\\isdwtc001d-bo.ute.fedex.com\EAImulti_commonL3\ecommerce\Docserver\C0016963\logs</td>
+      <td>\\isdwtc001d-bo.ute.fedex.com\EAImulti_commonL...</td>
       <td>UTC</td>
     </tr>
   </tbody>
